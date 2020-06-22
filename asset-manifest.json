@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pic-of-the-day/static/css/main.92a74143.chunk.css",
+    "main.js": "/pic-of-the-day/static/js/main.c997fbb3.chunk.js",
+    "main.js.map": "/pic-of-the-day/static/js/main.c997fbb3.chunk.js.map",
+    "runtime-main.js": "/pic-of-the-day/static/js/runtime-main.e03bc501.js",
+    "runtime-main.js.map": "/pic-of-the-day/static/js/runtime-main.e03bc501.js.map",
+    "static/css/2.a1b7a17e.chunk.css": "/pic-of-the-day/static/css/2.a1b7a17e.chunk.css",
+    "static/js/2.93deb21a.chunk.js": "/pic-of-the-day/static/js/2.93deb21a.chunk.js",
+    "static/js/2.93deb21a.chunk.js.map": "/pic-of-the-day/static/js/2.93deb21a.chunk.js.map",
+    "index.html": "/pic-of-the-day/index.html",
+    "precache-manifest.85401aa65d0e28009d6766138c74ef99.js": "/pic-of-the-day/precache-manifest.85401aa65d0e28009d6766138c74ef99.js",
+    "service-worker.js": "/pic-of-the-day/service-worker.js",
+    "static/css/2.a1b7a17e.chunk.css.map": "/pic-of-the-day/static/css/2.a1b7a17e.chunk.css.map",
+    "static/css/main.92a74143.chunk.css.map": "/pic-of-the-day/static/css/main.92a74143.chunk.css.map",
+    "static/js/2.93deb21a.chunk.js.LICENSE.txt": "/pic-of-the-day/static/js/2.93deb21a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e03bc501.js",
+    "static/css/2.a1b7a17e.chunk.css",
+    "static/js/2.93deb21a.chunk.js",
+    "static/css/main.92a74143.chunk.css",
+    "static/js/main.c997fbb3.chunk.js"
+  ]
+}
