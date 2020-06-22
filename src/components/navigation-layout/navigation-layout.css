@@ -1,0 +1,30 @@
+.navigation-layout {
+    padding: 10px 20px;
+}
+
+.navigation-list {
+    list-style: none;
+    display: flex;
+    font-size: 1.1rem;
+    letter-spacing: 0.7px;
+}
+
+.navigation-list li {
+    margin-right: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: #b4ad9e;
+    transition: all ease-in-out 0.8s;
+}
+
+.link:hover{
+    text-decoration: underline;
+    color: #757575;
+}
+
+.active-link {
+    text-decoration: none;
+    color: #626262;
+}

@@ -1,0 +1,28 @@
+.single-picture-layout p,
+h1 {
+    text-align: center;
+}
+
+.img-container {
+    width: 450px;
+    height: 450px;
+    overflow: hidden;
+    margin: 15px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.img-container>img {
+    display: inline-block;
+    max-height: 100%;
+}
+
+.date-picker-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.date-picker-container>p {
+    margin-right: 15px;
+}
